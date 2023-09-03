@@ -12,3 +12,7 @@ My collection of badges based on img.shields.io
 
 [![docs](https://img.shields.io/badge/docs-badge%20playground-cyan.svg)](README.md)
 [![github pages](https://img.shields.io/badge/github%20pages-badge%20playground-blue.svg)](https://fugerit79.github.io/badge-playground/)
+
+## for version : 
+
+[![version](https://img.shields.io/badge/version-0%201%200-brown.svg)](README.md)
