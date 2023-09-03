@@ -15,4 +15,6 @@ My collection of badges based on img.shields.io
 
 ## for version : 
 
-[![version](https://img.shields.io/badge/version-0%201%200-brown.svg)](README.md)
+[![version](https://img.shields.io/badge/version-0.1.0-brown.svg)](README.md) before version 1 or unstable version
+
+[![version](https://img.shields.io/badge/version-1.1.0-003099.svg)](README.md) stable version
