@@ -11,4 +11,4 @@ My collection of badges based on img.shields.io
 ## for dicumentation : 
 
 [![docs](https://img.shields.io/badge/docs-badge%20playground-cyan.svg)](README.md)
-[![github pages](https://img.shields.io/badge/github%20pages-badge%20playground-blue.svg)]([README.md](https://fugerit79.github.io/badge-playground/)https://fugerit79.github.io/badge-playground/)
+[![github pages](https://img.shields.io/badge/github%20pages-badge%20playground-blue.svg)](https://fugerit79.github.io/badge-playground/)
